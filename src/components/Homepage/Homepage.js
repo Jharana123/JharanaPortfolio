@@ -28,11 +28,11 @@ function Home() {
             }}
               className='socailmediabtn'><FaLinkedinIn className='icon' /></button>
             <button onClick={() => {
-              window.open("https://twitter.com/rahulvijay8156");
+              window.open("");
             }}
               className='socailmediabtn'><AiOutlineTwitter className='icon' /></button>
             <button onClick={() => {
-              window.open("https://instagram.com/rahulvijay81");
+              window.open("");
             }}
               className='socailmediabtn'><AiFillInstagram className='icon' /></button>
           </Col>
