@@ -11,8 +11,10 @@ function Contactpage() {
           I’m currently searching for opportunities for a Full stack developer
           role. <br /> If there is any vacancy my inbox is always open. Whether
           <br /> you have any further questions or just want to say hi, <br />
-          I’ll try my best to get back to you!
+          I’ll try my best to get back to you!<br></br>
+            <b>Email Id:jharanaperua@gmail.com</b>
         </p>
+        
         <button
           className="contactbtn"
           onClick={() => {
