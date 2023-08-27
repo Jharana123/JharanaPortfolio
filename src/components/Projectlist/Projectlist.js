@@ -6,6 +6,7 @@ import image from '../../Assets/imagegallery.png'
 import quiz from '../../Assets/QuizApp.png'
 import hotelImage from '../../Assets/hotel.png'
 import news from '../../Assets/newswire.png'
+import hire_hub from '../../Assets/hire hub.png'
 import scribble from '../../Assets/Scribble.png'
 import todolist from '../../Assets/todoList2.png'
 
@@ -81,6 +82,16 @@ Adding notes using ReactJS typically involves creating a component that allows u
                 title="To Do List"
                 description=" To-Do App that build will allow a user to add a task to a list of to-do items. Once the task is added, the user will be able to delete it as completed once it has done."
                 ghLink="https://todolist-gypt.onrender.com/"
+              />
+            </Col>
+            <Col md={4} className="project-card">
+              <ProjectCard
+                imgPath={hire_hub}
+                isBlog={false}
+                title="Hire Hub"
+                description="Hire Hub Built a placement management system application that streamlines the job
+posting and application process "
+                ghLink="https://jobsource.onrender.com/"
               />
             </Col>
           </Row>
