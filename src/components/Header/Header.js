@@ -85,7 +85,7 @@ function Header() {
           <Button
             onClick={() => {
               window.open(
-                "https://drive.google.com/file/d/1e7ZXTeQKGAcbspjaN28P0WFO6am8AGiZ/view?usp=sharing"
+                "https://drive.google.com/file/d/1e7ZXTeQKGAcbspjaN28P0WFO6am8AGiZ/view"
 
               );
             }}
